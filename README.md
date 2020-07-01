@@ -39,9 +39,9 @@
 
 ## 作者
 - 编撰
-  * @Seng-Jik 
-  * @Zhihang-Liu 
+  * [@Seng-Jik](https://github.com/Seng-Jik)
+  * [@Zhihang-Liu](https://github.com/Zhihang-Liu)
 - 审阅
-  * @Zhihang-Liu 
+  * [@Zhihang-Liu](https://github.com/Zhihang-Liu)
 - 出版事项
-  * 山东青年政治学院 李谦诚 老师
+  * [@amituofo131419](https://github.com/amituofo131419)
