@@ -45,9 +45,9 @@
 ## 作者
 
 * 编撰
-  * @Seng-Jik
-  * @lyzh流云坠海
+  * [@许星翼](https://github.com/Seng-Jik)
+  * [@lyzh流云坠海](https://github.com/Zhihang-Liu)
 * 审阅
-  * @lyzh流云坠海
+  * [@lyzh流云坠海](https://github.com/Zhihang-Liu)
 * 出版事项
-  * 山东青年政治学院 李谦诚 老师
+  * [@amituofo131419](https://github.com/amituofo131419)
