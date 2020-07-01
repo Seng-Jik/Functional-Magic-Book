@@ -25,7 +25,7 @@
 * 类型安全的printf
 * Monad与F#的Computation Expression
 * 使用Computation Expressions构造DSL
-* call-cc并用call-cc合成循环控制流
+* call-cc是什么
 * 抽象语法树
 * type rich programming
 * Rust语言中的生命周期系统
