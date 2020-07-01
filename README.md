@@ -39,9 +39,9 @@
 
 ## 作者
 - 编撰
-  * [@Seng-Jik](https://github.com/Seng-Jik)
-  * [@Zhihang-Liu](https://github.com/Zhihang-Liu)
+  * [@许星翼](https://github.com/Seng-Jik)
+  * [@lyzh流云坠海](https://github.com/Zhihang-Liu)
 - 审阅
-  * [@Zhihang-Liu](https://github.com/Zhihang-Liu)
+  * [@lyzh流云坠海](https://github.com/Zhihang-Liu)
 - 出版事项
   * [@amituofo131419](https://github.com/amituofo131419)
