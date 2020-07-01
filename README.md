@@ -51,3 +51,5 @@
   * [@lyzh流云坠海](https://github.com/Zhihang-Liu)
 * 出版事项
   * [@amituofo131419](https://github.com/amituofo131419)
+  
+我们欢迎任何对此项目有兴趣的人加入我们这个项目，当本书出版后，你可以获得相应的稿费，可以通过QQ853974536或者QQ邮箱联系我。
