@@ -47,10 +47,11 @@
 * 编撰
   * [@许星翼](https://github.com/Seng-Jik)
   * [@lyzh流云坠海](https://github.com/Zhihang-Liu)
-* 审阅
+* 审校
   * [@lyzh流云坠海](https://github.com/Zhihang-Liu)
   * [@林天忆](https://github.com/HoshinoTented)
   * [@chuigda](https://github.com/ICEYSELF)
+  * [@司马坑](https://github.com/simakeng)
 * 出版事项
   * [@amituofo131419](https://github.com/amituofo131419)
   
