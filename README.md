@@ -49,7 +49,7 @@
   * [@lyzh流云坠海](https://github.com/Zhihang-Liu)
 * 审阅
   * [@lyzh流云坠海](https://github.com/Zhihang-Liu)
-  * [@HoshinoTented](https://github.com/HoshinoTented)
+  * [@林天忆](https://github.com/HoshinoTented)
 * 出版事项
   * [@amituofo131419](https://github.com/amituofo131419)
   
